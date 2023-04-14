@@ -27,5 +27,9 @@
 
 Tasks attempted to solve
 Zehr0_rev challenge
+
+
 Decryp chall(used steghide and then stegseek but for stegseek it showed command not found even after i installed the command.)
+
+
 Writing hello world program in bare metal in a qemu emulator.
