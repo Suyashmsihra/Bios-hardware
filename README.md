@@ -26,10 +26,12 @@
 8)Read first two chapters in car hacking handbook.
 
 Tasks attempted to solve
-Zehr0_rev challenge
 
 
-Decryp chall(used steghide and then stegseek but for stegseek it showed command not found even after i installed the command.)
+1)Zehr0_rev challenge
 
 
-Writing hello world program in bare metal in a qemu emulator.
+2)Decryp chall(used steghide and then stegseek but for stegseek it showed command not found even after i installed the command.)
+
+
+3)Writing hello world program in bare metal in a qemu emulator.
