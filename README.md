@@ -1,6 +1,6 @@
 # Bios-hardware
 1) Read about firmware reversing.
-2)All the project 1 files have been uploaded.
+2)Understood nand2tetris hardware simulator and completed the project 1(which includes implementation and understanding of elementary logic      gates,16bit variants,multiway variants).
 3)Read about network forensics.
 4)Installed wireshark and solved the Wired_5niffer chall.
 5)Created a writeup on CAN network and its vulnerabilities.
